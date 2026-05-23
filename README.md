@@ -37,7 +37,9 @@ The application allows users to search weather information by city name and disp
 
 <img width="301" height="545" alt="Screenshot 2026-05-23 at 22 32 03" src="https://github.com/user-attachments/assets/37f7cd22-c885-415f-8354-d606a328a55f" />
 
-<img width="301" height="545" alt="Screenshot 2026-05-23 at 22 32 24" src="https://github.com/user-attachments/assets/8edaf134-7f4b-41ec-b02e-11fc73a1e263" />
+<img width="301" height="545" alt="Screenshot 2026-05-23 at 22 42 01" src="https://github.com/user-attachments/assets/5e35a103-e920-4fe4-8343-eb70cdace2f2" />
+
+<img width="301" height="545" alt="Screenshot 2026-05-23 at 22 42 14" src="https://github.com/user-attachments/assets/77f4946d-18e7-44fe-871f-63a59efdc280" />
 
 
 
