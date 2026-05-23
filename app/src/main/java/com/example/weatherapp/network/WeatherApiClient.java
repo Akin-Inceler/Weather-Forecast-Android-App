@@ -13,7 +13,7 @@ import java.net.URLEncoder;
 
 public class WeatherApiClient {
 
-    private static final String API_KEY = "0eb160e61143b83fc7266513b807922d";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static final String BASE_URL =
             "https://api.openweathermap.org/data/2.5/weather?q=";
 
