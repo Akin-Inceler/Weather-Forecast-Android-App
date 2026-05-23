@@ -64,3 +64,30 @@ com.example.weatherapp
 │
 ├── MainActivity
 └── WeatherDetailActivity
+```
+
+## Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Weather-Forecast-Android-App.git
+```
+
+2. Open the project in Android Studio
+
+3. Create your own OpenWeatherMap API key
+
+https://openweathermap.org/api
+
+4. Add your API key inside:
+
+```java
+WeatherApiClient.java
+```
+
+```java
+private static final String API_KEY = "YOUR_API_KEY";
+```
+
+5. Run the application
